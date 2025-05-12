@@ -1,0 +1,12 @@
+.theme-a {
+  background-color: #f5f5f5;
+  color: #766e6e;
+}
+.theme-b {
+  background-color: #aba3a3;
+  color: white;
+}
+.theme-c {
+  background: linear-gradient(45deg, #ff9a9e, #fad0c4);
+  color: #923030;
+}
